@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammed Nowful Khan</h1>
 <h3 align="center">Hardwere hacker</h3>
+#Subdomain Finder
+This is an Sub-Doamin Finder with an CLI & Gui based
+<h3 align="center">Installation</h3>
+1] git clone https://github.com/HackerNowful/Sub-Hunter
 
+2] cd Sub-Hunter
+
+3] sudo ./install.sh.x
+
+4] you can run this script from anyware By typing Sub_Hunt.x
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackernowful&label=Profile%20views&color=0e75b6&style=flat" alt="hackernowful" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackernowful" alt="hackernowful" /></a> </p>
