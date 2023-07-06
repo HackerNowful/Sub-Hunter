@@ -3,7 +3,7 @@
 This is an Sub-Doamin Finder with an CLI & Gui based
 <h3 align="center">Installation</h3>
 1] git clone https://github.com/HackerNowful/Sub-Hunter
-
+<br>
 2] cd Sub-Hunter
 
 3] chmod +x *
